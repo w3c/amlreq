@@ -216,7 +216,7 @@ It is linked to from the <a href="https://w3c.github.io/typography/gap-analysis/
 
 
 
-<section id="segmentation" class="tbd">
+<section id="segmentation" class="ok">
 <h3>Grapheme/word segmentation &amp; selection</h3>
 <p id="prompt-segmentation" class="status_prompt promptStub"></p>
 
@@ -225,7 +225,7 @@ It is linked to from the <a href="https://w3c.github.io/typography/gap-analysis/
  
 
 
-<section id="punctuation_etc" class="tbd">
+<section id="punctuation_etc" class="ok">
 <h3>Punctuation &amp; other inline features</h3>
 <p id="prompt-punctuation_etc" class="status_prompt promptStub"></p>
 
@@ -408,7 +408,7 @@ It is linked to from the <a href="https://w3c.github.io/typography/gap-analysis/
 
 
 <details>
-<summary style="margin-top:4em; cursor: pointer;">Show summary</summary>
+<summary style="margin-top:4em; cursor: pointer;" onClick="setUpSummary(); printSummary(true);">Show summary</summary>
 <pre id="summaryPlaceholder" style="white-space: pre-wrap;"></pre>
 </details>
 
@@ -416,10 +416,8 @@ It is linked to from the <a href="https://w3c.github.io/typography/gap-analysis/
 
 
 <script class="remove">
-setUpSummary()
 addPrompts() 
-getAllData('amlreq','doc:iu-cr')
-printSummary(true)
+getAllData('amlreq','doc:cans')
 </script>
 
 
