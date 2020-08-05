@@ -4,13 +4,14 @@ This repository explores gaps in support for languages of the Americas on the We
 
 It aims to address the problem that experts don't know how to tell the W3C what problems exist for support of their language on the Web, and the W3C doesn't know how to contact people who can help when questions arise.
 
-Topics for discussion are suggested by [the gap-analysis template](http://w3c.github.io/i18n-activity/templates/gap-analysis/gap-analysis_template.html). This work feeds into the [language matrix](http://w3c.github.io/typography/gap-analysis/language-matrix.html) which provides a heat-map for language issues on the Web.  You can find a list of open issues, including those from W3C Working Groups, on the [Layout Tracker](http://w3c.github.io/i18n-activity/textlayout/?filter=afrlreq) page. (That link applies an `afrlreq` filter.)
+Topics for discussion are suggested by [the gap-analysis template](http://w3c.github.io/i18n-activity/templates/gap-analysis/gap-analysis_template.html). This work feeds into the [language matrix](http://w3c.github.io/typography/gap-analysis/language-matrix.html) which provides a heat-map for language issues on the Web.  You can find a list of open issues, including those from W3C Working Groups, on the [Layout Tracker](http://w3c.github.io/i18n-activity/textlayout/?filter=amlreq) page. (That link applies an `amlreq` filter.)
 
 For more details about scope, deliverables, work methods, etc., see the [group's charter](https://w3c.github.io/afrlreq/charter/).
 
 ### Documents
 - [Cherokee Gap Analysis](https://w3c.github.io/amlreq/gap-analysis/chr-gap)
 - [Inuktitut & Cree Gap Analysis](https://w3c.github.io/amlreq/gap-analysis/iu-cr-gap)
+- [Osage Gap Analysis](https://w3c.github.io/amlreq/gap-analysis/osge-osa-gap)
 
 
 ### Feedback
