@@ -5,7 +5,8 @@
 <meta charset="utf-8">
 
 <title>Cherokee Gap Analysis</title>
-<script class="remove" src="../../i18n-activity/textlayout/resources/gap-analysis-github.js"> </script>
+<script class="remove" src="../../i18n-activity/textlayout/resources/gap-analysis-github.js"></script>
+<script class="remove" src="../../i18n-activity/templates/gap-analysis/prompts.js"></script>
 
 <script src="https://www.w3.org/Tools/respec/respec-w3c" async="" class="remove">
 </script>
@@ -34,18 +35,26 @@
 
  	  github:	"w3c/amlreq",
 	  group:	"i18n",
-	  
-	  postProcess: [
-    	function importStyleSheet() {
-			[...document.querySelectorAll("link[rel='stylesheet'][data-import]")].forEach(l => {
-				const style = document.createElement("style");
-				fetch(l.href).then(r => r.text()).then(t => {
-					style.textContent = t;
-					l.replaceWith(style);
-					});
-      			});
-    		}
-   		],
+
+
+	preProcess: [
+		() => { addPrompts() },
+		async () => { await getAllData('amlreq','doc:cher') }
+		],
+
+	postProcess: [
+		async function importStyleSheet() { 
+			const elems = document.querySelectorAll(`link[rel='stylesheet'][data-import]`)
+			await Promise.all(
+				[...elems].map(async link => {
+					const text = await fetch(link.href).then(r => r.text())
+					const style = document.createElement("style")
+					style.textContent = text
+					link.replaceWith(style)
+					})
+				)
+			}
+		],
       
       
       // langs array lists languages addressed by this document, in order of speaker (highest first)
@@ -55,7 +64,6 @@
       };
 </script>
 
-<script class="remove" src="../../i18n-activity/templates/gap-analysis/prompts.js"> </script>
 <link rel="stylesheet" data-import href="https://w3c.github.io/typography/gap-analysis/gapanalysis.css">
 </head>
 
@@ -71,17 +79,23 @@ It is linked to from the <a href="https://w3c.github.io/typography/gap-analysis/
 <p>This document is an individual contribution, and is not currently a work item in any group, however, you can contact the <a href="https://www.w3.org/International/core/">Internationalization Working Group</a> for more information. We welcome contributions to this and/or other documents.</p>
 </div>
 
-  <section id="h_introduction">
-    <h2>Introduction</h2>
-    <p>The W3C needs to make sure that the  needs of scripts and languages around the world are built in to technologies such as HTML, CSS, SVG, etc. so that Web pages and eBooks can look and behave as people expect around the world.</p>
-    
-    <p>This page documents difficulties people encounter when trying to use the Cherokee language in the Cherokee script on the Web. </p>
+<section id="h_introduction">
+<h2>Introduction</h2>
+<p>The W3C needs to make sure that the  needs of scripts and languages around the world are built in to technologies such as HTML, CSS, SVG, etc. so that Web pages and eBooks can look and behave as people expect around the world.</p>
+
+<p>This page documents difficulties people encounter when trying to use the Cherokee language in the Cherokee script on the Web. </p>
 <p>Having identified an issue, it investigates the current status with regards to web specifications and implementations by user agents (browsers, e-readers, etc.), and attempts to prioritise the severity of the issue for web users.</p>
 
-    <p>A summary of this report and others can be found as part of the <a href="https://w3c.github.io/typography/gap-analysis/language-matrix.html" style="font-size: 140%;">language matrix</a>.</p>
-    
-    <section id="workflow">
-    <h3>Work flow</h3>
+<p>A summary of this report and others can be found as part of the <a href="https://w3c.github.io/typography/gap-analysis/language-matrix.html" style="font-size: 140%;">language matrix</a>.</p>
+
+<p>For a description of the Cherokee script see the (non-W3C) page <a href="https://r12a.github.io/scripts/cherokee/">Cherokee</a>, which summarises aspects of the orthography and typographic features, including relevant Unicode characters and their use.</p>
+
+
+
+
+
+<section id="workflow">
+  <h3>Work flow</h3>
     <p><span style="font-weight:bold; font-size: 140%;">This version of the document is a preliminary analysis</span></p>
 
     <p>Gap analysis work usually starts with a <strong>preliminary analysis</strong>, conducted quickly by one or a small group of experts. Then a more <strong>detailed analysis</strong> is carried out, involving a wider range of experts. The detailed analysis may involve the development of tests, in order to illustrate issues and track results for browsers. The next phase is <strong>ongoing maintenance</strong>. It is expected that the resulting document will not be frozen: as gaps are fixed, this should be noted in the document. It is also possible that new gaps are noticed or arise, and they can be added to this document when that happens.</p>
@@ -188,7 +202,7 @@ It is linked to from the <a href="https://w3c.github.io/typography/gap-analysis/
 <h3>Cursive text</h3>
 <p id="prompt-cursive" class="status_prompt promptStub"></p>
 
-<div id="insert-cursive_text"></div>
+<div id="insert-cursive"></div>
 </section>
 
 
@@ -412,10 +426,6 @@ It is linked to from the <a href="https://w3c.github.io/typography/gap-analysis/
 <summary style="margin-top:4em; cursor: pointer;" onclick="setUpSummary(); printSummary(true)">Show summary</summary>
 <pre id="summaryPlaceholder" style="white-space: pre-wrap;"></pre>
 </details>
-<script class="remove">
-addPrompts() 
-getAllData('amlreq','doc:cher')
-</script>
 <script>
 if (window.location.href.includes('/TR/')) document.getElementById('summaryStats').style.display = 'none'
 </script>
