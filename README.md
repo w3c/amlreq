@@ -8,7 +8,7 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 
 
 ### Key links
-[GitHub repo](https://github.com/w3c/amlreq) • [Discussion threads](https://github.com/w3c/amlreq/issues) • [Issue tracker](https://www.w3.org/International/i18n-activity/textlayout/?filter=amlreq) (with amlreq filter) • [Charter](https://www.w3.org/International/amlreq/charter/).
+[GitHub repo](https://github.com/w3c/amlreq) • [Discussion threads](https://github.com/w3c/amlreq/issues) • [Issue tracker](https://www.w3.org/International/i18n-activity/textlayout/?filter=amlreq) (with amlreq filter) • [Charter](https://www.w3.org/International/amlreq/charter/)
 
 
 ### Documents
@@ -32,13 +32,15 @@ You can participate in the work at various levels. In order of increasing commit
 
 **To become a participant, editor, or chair:** contact [Richard Ishida](mailto:ishida@w3.org). We welcome participation requests.
 
+To get an idea about what's involved, see [Get involved with Language Enablement!](https://www.w3.org/International/i18n-drafts/pages/languagedev_participation). 
+
 
 ### Contacts
 
 - W3C staff: [Richard Ishida](mailto:ishida@w3.org)
 
 
-### Links to practical help
+### Links to practical information
 - [Mail archive](https://lists.w3.org/Archives/Public/public-i18n-americas/)
 - [Writing i18n tests](https://github.com/w3c/i18n-activity/wiki/Writing-i18n-tests)
 - [Practical tips for task forces](https://www.w3.org/International/i18n-activity/guidelines/process.html) (See also the links for editors below)
