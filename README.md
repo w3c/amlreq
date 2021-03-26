@@ -12,9 +12,9 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 
 
 ### Documents
-- [**Cherokee Gap Analysis**](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/cher-gap.html) • [*Edit on GitHub*](https://github.com/w3c/amlreq/labels/doc%3Acher)
-- [**Inuktitut & Cree Gap Analysis**](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html) • [*Edit on GitHub*](https://github.com/w3c/amlreq/labels/doc%3Acans)
-- [**Osage Gap Analysis**](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html) • [*Edit on GitHub*](https://github.com/w3c/amlreq/labels/doc%3Aosge)
+- [**Cherokee Gap Analysis**](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/cher-gap.html) • [*Edit/comment on GitHub*](https://github.com/w3c/amlreq/labels/doc%3Acher)
+- [**Inuktitut & Cree Gap Analysis**](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html) • [*Edit/comment on GitHub*](https://github.com/w3c/amlreq/labels/doc%3Acans)
+- [**Osage Gap Analysis**](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html) • [*Edit/comment on GitHub*](https://github.com/w3c/amlreq/labels/doc%3Aosge)
 
 
 ### Feedback
