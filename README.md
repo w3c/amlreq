@@ -22,7 +22,7 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 ### Feedback
 Please use the [GitHub issue list](https://github.com/w3c/amlreq/issues) to report issues for language support, for discussions, and to send feedback about documents. (Learn [how GitHub issues work](https://www.w3.org/International/i18n-activity/guidelines/issues.html).)
 
-Note that the public-i18n-americas mailing list is used to send notification digests & meeting minutes. It is **not** for technical discussion.
+Note that the [public-i18n-americas](https://lists.w3.org/Archives/Public/public-i18n-americas/) mailing list is used to send notification digests & meeting minutes. It is **not** for technical discussion.
 
 
 ### Participate
