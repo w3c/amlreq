@@ -10,6 +10,11 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 ### Key links
 [GitHub repo](https://github.com/w3c/amlreq) • [Discussion threads](https://github.com/w3c/amlreq/issues) • [Issue tracker](https://www.w3.org/International/i18n-activity/textlayout/?filter=amlreq) (with amlreq filter) • [Charter](https://www.w3.org/International/amlreq/charter/)
 
+### Help wanted! ###
+We're looking for information about these writing systems. Follow the links for specific questions.
+
+[Cherokee](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Acher+label%3Aquestion) • [Inuktitut & Cree (UCAS)](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Acans+label%3Aquestion) • [Osage](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Aosge+label%3Aquestion)
+
 
 ### Documents
 - **Cherokee Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/cher-gap.html) • [*Discuss*](https://github.com/w3c/amlreq/labels/s%3Acher) • [*Edit*](https://github.com/w3c/amlreq/labels/doc%3Acher)
