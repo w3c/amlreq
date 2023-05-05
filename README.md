@@ -13,7 +13,7 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 ### Help wanted! ###
 We're looking for information about these writing systems. Follow the links for specific questions.
 
-[Cherokee](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Achr-cher+label%3Aquestion) • [Inuktitut](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Aike-cans+label%3Aquestion) • [Cree](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Acrk-cans+label%3Aquestion) • [Osage](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Aosa-osge+label%3Aquestion)
+[Cherokee](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr-cher+label%3Aquestion) • [Inuktitut](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike-cans+label%3Aquestion) • [Cree](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk-cans+label%3Aquestion) • [Osage](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa-osge+label%3Aquestion)
 
 
 ### Documents
