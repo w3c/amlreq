@@ -6,14 +6,18 @@ We aim to address the problem that local users don't know how to tell the W3C wh
 
 Topics for discussion are suggested by [the gap-analysis template](https://www.w3.org/International/i18n-activity/templates/gap-analysis/gap-analysis_template.html). This work feeds into the [language matrix](https://www.w3.org/International/typography/gap-analysis/language-matrix.html) which provides a heat-map for language issues on the Web.
 
+---
+
+## Help wanted!
+**We're looking for information about these writing systems. Follow the links for specific questions.**
+
+**[Cherokee](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr-cher+label%3Aquestion) • [Inuktitut](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike-cans+label%3Aquestion) • [Cree](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk-cans+label%3Aquestion) • [Osage](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa-osge+label%3Aquestion)**
+
+---
+
 
 ### Key links
 [GitHub repo](https://github.com/w3c/amlreq) • [Discussion threads](https://github.com/w3c/amlreq/issues) • [Issue tracker](https://www.w3.org/International/i18n-activity/textlayout/?filter=amlreq) (with amlreq filter) • [Charter](https://www.w3.org/International/amlreq/charter/)
-
-### Help wanted! ###
-We're looking for information about these writing systems. Follow the links for specific questions.
-
-[Cherokee](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr-cher+label%3Aquestion) • [Inuktitut](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike-cans+label%3Aquestion) • [Cree](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk-cans+label%3Aquestion) • [Osage](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa-osge+label%3Aquestion)
 
 
 ### Documents
