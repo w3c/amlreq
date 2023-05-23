@@ -21,11 +21,30 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 
 
 ### Documents
-- **Cherokee Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/cher-gap.html) • [*Discuss*](https://github.com/w3c/amlreq/labels/s%3Acher) • [*Edit*](https://github.com/w3c/amlreq/labels/doc%3Acher)
+- **Cherokee Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/cher-gap.html)
 
-- **Inuktitut & Cree Gap Analysis** • [DNOTE](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html) • [*Discuss*](https://github.com/w3c/amlreq/labels/s%3Acans) • [*Edit*](https://github.com/w3c/amlreq/labels/doc%3Acans)
+- **Inuktitut & Cree Gap Analysis** • [DNOTE](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html)
 
-- **Osage Gap Analysis** • [DNOTE](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html) • [*Discuss*](https://github.com/w3c/amlreq/labels/s%3Aosge) • [*Edit*](https://github.com/w3c/amlreq/labels/doc%3Aosge)
+- **Osage Gap Analysis** • [DNOTE](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html)
+
+
+### Discussions
+- **Cherokee** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr+label%3Aquestion)
+• [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acher)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Achr+-label%3Aquestion) 
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
+- **Plains Cree** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk+label%3Aquestion)
+• [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acans)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Acrk+-label%3Aquestion) 
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
+- **Inuktitut** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike+label%3Aquestion)
+• [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acans)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Aike+-label%3Aquestion)
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
+- **Osage**  • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa+label%3Aquestion)
+• [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Aosge)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Aosa+-label%3Aquestion) 
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
 
 
 ### Feedback
